@@ -106,8 +106,3 @@ NER_using_huggingface_transformer/
 
 ---
 
-## 👤 Author
-
-**[Your Name]**  
-GitHub: [your-github-url]  
-Email: [your-email@example.com]
